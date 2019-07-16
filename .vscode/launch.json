@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindGene",
+            "request": "launch",
+            "mainClass": "FindGene",
+            "projectName": "Find gene"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "find gene"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindGene",
+            "request": "launch",
+            "mainClass": "FindGene",
+            "projectName": "find gene"
+        }
+    ]
+}
